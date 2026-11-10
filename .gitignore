@@ -1,0 +1,8 @@
+# Build output
+*.o
+*.exe
+a.out
+
+# Editor / OS files
+.DS_Store
+.vscode/
